@@ -15,7 +15,7 @@
 2. Enter the transaction details, including a description and amount.
 3. Click the "Add Transaction" button to update the transaction list and financial summary.
 4. Monitor your current balance, income, and expenses in real-time.
-5. Remove transactions by clicking the "x" button next to the entry.
+5. Remove transactions by clicking the "delete" button next to the entry.
 
 ## Technologies Used
 
